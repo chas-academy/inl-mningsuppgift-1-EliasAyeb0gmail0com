@@ -14,7 +14,7 @@ int main()
         sum+=roll;
     }
     for (int i = 1; i <=6; i++){
-        printf("%d\n", counts[i]) 
+        printf("%d\n", counts[i]);
     }
    printf("%d\n", sum);
    float average = (float)sum / 100;
